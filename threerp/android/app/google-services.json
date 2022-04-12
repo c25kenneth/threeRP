@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86684194295",
+    "project_id": "threerp-5e282",
+    "storage_bucket": "threerp-5e282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86684194295:android:f689345ed057c76d8f0af2",
+        "android_client_info": {
+          "package_name": "com.kennethandco.threerp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86684194295-de442cok445q7icv9v88j0paou64smkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIzlXnhgjIqfBio2D6Oe-1MPwSOA-5cgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86684194295-de442cok445q7icv9v88j0paou64smkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
